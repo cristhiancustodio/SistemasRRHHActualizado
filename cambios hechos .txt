@@ -1,0 +1,34 @@
+Se hicieron cambios en 29/10/2022
+
+*procedimiento almacenado verPostulanteEstado, agregando el campo Nombre del Puesto.
+*se agrego en el modal, las opciones de select Distrito y Puesto, por si se desea actualizar esos campos.
+*se cambio el nombre del archivo tabla.php a tabla-entrevistas.php.
+*se actualizo el metodo actualizarPostulantes en el archivo Postulante.php.
+*se agrego mas variables en el case "actualizar" en el archivo controlador.php.
+
+
+
+Cosas a implementar
+
+* llamadas telefonicas
+* crear enlace por whatsaap
+
+
+
+30/10/2022
+Se implemento la pagina de postulantes ya registrados y error de subir arhicho
+* se corrigio el error del postulante se inserta sin su cv, ahora el postulante se elimina 
+auotmaticamente cuando no se sube el archivo
+* Se agrega el campo edad al modal para actualizar la edad y tambien se modifica los metodos
+
+*se cambiara el nav, se colocara arriba
+
+
+
+
+
+
+
+
+
+
